@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**g-ramos27/g-ramos27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Giovanna Ramos
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo em linguagem JavaScript
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Entrar em contato comigo 📫
+
+  00001129119440sp@al.educacao.sp.gov.br
+
+  ![](https://media1.tenor.com/m/KtMnAwmpw8sAAAAC/pedro-monkey-puppet.gif)
+ 
